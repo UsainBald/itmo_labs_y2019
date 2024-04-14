@@ -1,1 +1,1 @@
-# itmo_labs_y2019
+# DSA practice
